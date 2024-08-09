@@ -1,0 +1,19 @@
+{
+    "TOKEN": "",
+    "bot_invite_link": "",
+    "prefix": "?",
+    "ADMIN_ID": "1141884808759361657" ,
+    
+    "LINK_BAN": "true",
+    "BANNED_LINKS": ["https"],
+    
+    "skip_installtion": "false",
+    "show_guilds": "true",
+    "daily_reward": 15000,
+    "carrot_plant_price": 100,
+    "carrot_sell_price": 125,
+    "max_carrots_planted": 1000,
+    "carrot_growth_duration": 12,
+    "bank_size": 25000,
+    "max_gamble_amount": 500000
+}
